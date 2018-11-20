@@ -68,8 +68,23 @@ ul {
     padding:0;
     list-style: none;
 }
+.game{
+    max-width: 400px;
+    padding: .5rem;
+}
+.game-logo img{
+    width: 200px;
+}
+.game-title{
+    width: 25%;
+}
+.game-title h2, h3{
+    
+    font-size: .9rem;
+}
 .container{
     padding: 0;
+    margin: 1rem;
 }
 footer{
     background: rgb(235, 235, 235);
